@@ -1,5 +1,5 @@
 package mod
 
 func Mod() string {
-	return "v3 package"
+	return "v4 tag package"
 }
