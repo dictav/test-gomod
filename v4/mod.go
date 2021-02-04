@@ -1,5 +1,5 @@
 package mod
 
 func Mod() string {
-	return "v4 tag directory"
+	return "v4 branch directory"
 }
