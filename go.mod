@@ -1,3 +1,3 @@
-module github.com/dictav/test-gomod/v3
+module github.com/dictav/test-gomod
 
 go 1.15
